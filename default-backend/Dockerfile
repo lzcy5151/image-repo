@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/google-containers/defaultbackend-amd64:1.5
+FROM k8s.gcr.io/google-containers/defaultbackend-amd64
